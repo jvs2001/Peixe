@@ -1,0 +1,27 @@
+.navegacao {
+    display: flex;
+    justify-content: flex-end;
+    background-color: var(--cinza) ;
+
+}
+
+.navegacao > ul{
+    display: flex;
+}
+.navegacao > ul > li{
+    padding: 5px;
+}
+
+.banner{
+    display: flex;
+}
+
+h1, h2, li, .bordao, p{
+    padding-left: 10px;
+}
+
+h1, h2, li, .bordao {
+    font-weight: 700;
+    font-family: sans-serif;
+}
+

@@ -1,0 +1,28 @@
+.conteudo{
+    display: flex;
+    width: 980px;
+    background-color: var(--cinza);
+    padding-bottom: 50px;
+}
+
+
+.conteudo p{
+    margin-bottom: 15px;
+}
+
+.conteudo-agenda{
+    padding-right: 10px ;
+}
+
+.mapa-site{
+    background-color: var(--claro);
+    margin-right: 50px;
+    padding: 5px 0 15px 0px;
+}
+
+.mapa-site > ul > li{
+    font-weight: 500;
+    padding-bottom: 5px ;
+    font-size: 14px;
+}
+
