@@ -7,4 +7,4 @@
 
 Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
 
-[Acesse aqui](https://guime777.github.io/Peixe-Blog/)
+[Acesse aqui](https://github.com/jvs2001/Peixe)
